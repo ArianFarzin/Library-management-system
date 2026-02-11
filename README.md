@@ -1,16 +1,32 @@
-# Library Management System (Python)
+# Library Management System 📚
 
-A simple library management system using Python OOP and Tkinter.
+A simple library management system built with Python using OOP concepts and Tkinter GUI.
 
 ## Features
-- Membership creation
-- Book borrowing (max 3 books)
-- Book returning
-- GUI using Tkinter
 
-## Requirements
-- Python 3.x
+- Create library membership
+- Borrow up to 3 books
+- Return borrowed books
+- Age validation
+- Simple graphical interface (Tkinter)
 
-## Run
+## Technologies
+
+- Python 3
+- Tkinter
+
+## How to Run
+
 `bash
-python main.py
+git clone https://github.com/ArianFarzin/Library-management-system.git
+cd Library-management-system
+python library_gui.py
+
+## Screenshots
+
+![Main Window](screenshots/main.png)
+![Member Info](screenshots/info.png)
+
+## Author
+
+Arian Farzin
